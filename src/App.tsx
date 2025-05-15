@@ -1,4 +1,3 @@
-import React from "react";
 import './index.css';  // Ensure this line exists in your main entry file.
 import { BrowserRouter as Router } from 'react-router-dom';
 import  HeroMain from "./components/heroSection/HeroMain"
